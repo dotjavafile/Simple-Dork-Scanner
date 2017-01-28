@@ -1,0 +1,11 @@
+{
+		"root" : 
+		{
+			"threads": 10
+		},
+		"bing" :
+		{
+			"threads" : 10,
+			"delay": 1
+		}
+}
